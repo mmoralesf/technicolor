@@ -1,7 +1,7 @@
 {
-    "name": "casper-xyz",
-    "description": "This is the Ghost theme of angristan.xyz, based on Casper.",
-    "demo": "https://angristan.xyz",
+    "name": "technicolor",
+    "description": "This is the Ghost theme of marianomorales.blog, based on Angristan's XYZ and Casper.",
+    "demo": "https://marianomorales.blog",
     "version": "2.1.9",
     "engines": {
         "ghost": ">=1.2.0"
@@ -29,10 +29,10 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/Angristan/Casper.git"
+        "url": "https://github.com/mmoralersf/technicolor"
     },
-    "bugs": "https://github.com/Angristan/Casper/issues",
-    "contributors": "https://github.com/Angristan/Casper/graphs/contributors",
+    "bugs": "https://github.com/mmoralesf/technicolor/issues",
+    "contributors": "https://github.com/mmoralesf/technicolor/graphs/contributors",
     "devDependencies": {
         "autoprefixer": "6.3.6",
         "cssnano": "3.7.1",
