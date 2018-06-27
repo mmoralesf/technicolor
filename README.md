@@ -13,15 +13,15 @@ I additionally modified several things that didn't quite satisfy me yet. The cha
 
 ### CSS
 
-Typography (FF Meta Web Pro, FF Enzo Web, FF Meta Pro)
-Removed Post Feature Image
-Modified Post Card Meta (Made author name thinner and added reading time JS)
-Reduced width of content area (in post.hbs)
-Removed the opacity layer from the header banner
-Modified the post titles to float to the left and have a 'max-width: 620px' and have font-family: 'FF Meta Web Pro', sans-serif' which makes it look very cool.
-Made images in posts smaller (and modified its margins and paddings)
-Made pre and code have a light blue background and custom border-radius
-Changed the subscribe button on the navigation menu for a "log-in" (fits my particular need better) and changed th border-radius to 3px instead of 10px.
+- Typography (FF Meta Web Pro, FF Enzo Web, FF Meta Pro)
+- Removed Post Feature Image
+- Modified Post Card Meta (Made author name thinner and added reading time JS)
+- Reduced width of content area (in post.hbs)
+- Removed the opacity layer from the header banner
+- Modified the post titles to float to the left and have a 'max-width: 620px' and have font-family: 'FF Meta Web Pro', sans-serif' which makes it look very cool.
+- Made images in posts smaller (and modified its margins and paddings)
+- Made pre and code have a light blue background and custom border-radius
+- Changed the subscribe button on the navigation menu for a "log-in" (fits my particular need better) and changed th border-radius to 3px instead of 10px.
 
 ## Fork
 
