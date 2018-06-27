@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Casper
 
 This is the [Ghost](https://github.com/tryghost/ghost/) theme of [angristan.xyz](https://angristan.xyz), based on [Casper](https://github.com/TryGhost/Casper).
@@ -31,3 +32,7 @@ Here are the assets that I downloaded and included in the repo as I don't want t
 * [Source Sans Pro font from Google Fonts](https://fonts.google.com/specimen/Source+Sans+Pro)
 
 They are all under their respective licence.
+=======
+# technicolor
+Technicolor - A Ghost theme based on Casper  by Mariano Morales Ramirez
+>>>>>>> bd471b17d0d2a642ac12cb8e7e0065490e547ae1
